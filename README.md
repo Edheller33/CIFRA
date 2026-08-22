@@ -20,4 +20,4 @@ La identidad y firma de mensajes (secp256k1/Schnorr) usan una implementación pr
 
 ## Licencia
 
-GPLv3 — ver [LICENCIA](LICENCIA). Cualquier versión modificada de CIFRA debe seguir siendo de código abierto.
+GPLv3 — ver [LICENSE](LICENSE). Cualquier versión modificada de CIFRA debe seguir siendo de código abierto.
